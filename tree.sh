@@ -61,4 +61,3 @@ while true; do
     }
     k=$((k % 2 + 1))
 done
-echo "Afikoman{the_beach_boys_good_vibrations}"
